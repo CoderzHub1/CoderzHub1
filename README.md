@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoderzHub1
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Next JS
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Front-end Web Development Projects
 - 📫 How to reach me lakshyaai@outlook.com 
 - 😄 Pronouns: He/Him
