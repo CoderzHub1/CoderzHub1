@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Lakshya</h1>
 <p align="center">
-  <strong>Student Developer · Full-Stack Web · Python Experiments</strong>
+  <strong> Student · Full-Stack Web Developement · Rust | Python | JavaScript  </strong>
 </p>
 
 <p align="center">
@@ -13,47 +13,18 @@
 
 ## 🚀 About Me
 
-I build full-stack web projects using **Next.js**, experiment with **backend logic** in Node.js,  
-and create fun **Python** scripts & games.  
-Always learning, improving, and shipping new ideas.
+knows Rust, Python, JS, C
 
 ---
-
-## 📂 Public Projects
-
-Here’s everything that is currently live on my GitHub:
-
-### 🌟 Featured
-
-- **[finwise](https://github.com/CoderzHub1/finwise)**  
-  Personal finance manager built with **Next.js**.
-  
-- **[aura](https://github.com/CoderzHub1/aura)**  
-  A personal assistant + automation playground (WIP).
-
----
-
-### 🧩 Other Projects
-
-- **[notewave](https://github.com/CoderzHub1/notewave)** — Note-taking app using Next.js  
-- **[gizmo360](https://github.com/CoderzHub1/gizmo360)** — Product/gadget info playground  
-- **[lost-and-found](https://github.com/CoderzHub1/lost-and-found)** — Simple lost-item tracker  
-
----
-
 ## 🛠️ Tech Stack
+**Languages**
+Rust, Python, JS
 
 **Frontend**  
 Next.js · React · JavaScript  
 
 **Backend**  
-Node.js · Express · API Routes  
-
-**Python**  
-Logic scripts · Mini-games · Tools  
-
-**Tools**  
-GitHub · VS Code · REST APIs  
+Node.js · Express · API Routes · Flask  
 
 ---
 
