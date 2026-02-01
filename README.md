@@ -13,18 +13,18 @@
 
 ## 🚀 About Me
 
-knows Rust, Python, JS, C
+I know Rust, C, Go, Python, JavaScript
 
 ---
 ## 🛠️ Tech Stack
 **Languages**
-Rust, Python, JS
+Rust, Python, JavaScript,  Go
 
 **Frontend**  
-Next.js · React · JavaScript  
+Next.js · React · JavaScript
 
 **Backend**  
-Node.js · Express · API Routes · Flask  
+Node.js · Express · API Routes · Python (Flask, FastAPI)  ·  Rust  ·  Go
 
 ---
 
