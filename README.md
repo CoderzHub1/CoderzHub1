@@ -26,17 +26,6 @@ Next.js · React · JavaScript
 **Backend**  
 Node.js · Express · API Routes · Python (Flask, FastAPI)  ·  Rust  ·  Go
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=CoderzHub1&show_icons=true&theme=tokyonight" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderzHub1&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Contact
 
 - **Email:** `lakshyaai@outlook.com`  
