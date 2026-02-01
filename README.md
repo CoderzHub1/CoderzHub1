@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Lakshya</h1>
 <p align="center">
-  <strong> Student · Full-Stack Web Developement · Rust | Python | JavaScript  </strong>
+  <strong> Student · Rust | Go | C | Python | JavaScript  </strong>
 </p>
 
 <p align="center">
